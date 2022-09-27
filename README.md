@@ -1,2 +1,3 @@
 # Smart-JPEG
-A smarter Jpeg algorithm implementation in python
+* This is a smarter Jpeg algorithm implementation in python *
+---
