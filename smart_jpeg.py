@@ -4,7 +4,7 @@ import numpy as np
 from scipy import fft
 from skimage.metrics import peak_signal_noise_ratio, structural_similarity
 
-img = cv2.imread("img3.png", cv2.IMREAD_GRAYSCALE)
+img = cv2.imread("img.png", cv2.IMREAD_GRAYSCALE)
 
 blocks_sharpness = []
 blocks_16x16 = []
